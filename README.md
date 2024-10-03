@@ -7,6 +7,9 @@ AlzheimersDeepLearning is an exploratory and educational project that delves int
 
 While the initial intention behind the DCGAN project was to augment MRI data for improved model training, I realized only once I had started generating decent images that this method could be problematic for training a model intended for real-life detection. Therefore, the DCGAN project serves more as a fun challenge to see how realistic the DCGAN MRI images could become.
 
+**tldr;**
+- [Very cool results from the final DCGAN architecture training (use the slider to watch noise transform into an MRI 'deep-fake')](https://wandb.ai/spindouken/mrialz_dcgan/reports/80-Epoch-Final-Run--Vmlldzo1ODU5MzU0?accessToken=lx3nmeo9e3l9l8crrbrf8y29pil5xrloi66l7tjlaerbnmj1zc1eqwwoxtby0szw)
+
 ## Supplemental Medium Articles
 
 - [Optimizing Alzheimer's Disease Classification using Bayesian Optimization and Transfer Learning](https://medium.com/@masonthecount/optimizing-alzheimers-disease-classification-using-bayesian-optimization-and-transfer-learning-3f9ed8cbad56)
